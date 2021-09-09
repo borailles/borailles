@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @borailles
+- 👀 I’m interested in finding tech talents
+- 🌱 I’m currently learning Github sourcing
